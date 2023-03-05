@@ -18,7 +18,7 @@ The rest of my time I like to spend coding other especially usefull things. 🫠
 
 ### 🤪 About Me (a second time):
 
-* My favourite color: <img align="right" src="https://placehold.co/15x15/CF9FFF/CF9FFF.png"> #CF9FFF
+* My favourite color: <img align="left" width="100" height="100" src="https://placehold.co/15x15/CF9FFF/CF9FFF.png"> #CF9FFF
 * I love Minecraft (If you couldn't already tell)
 * I code almost every day 😎
 * Java > Every other Programming Language
