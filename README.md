@@ -18,9 +18,9 @@ The rest of my time I like to spend coding other especially usefull things. 🫠
 
 ### 🤪 About Me (a second time):
 
-* My favourite color: [#CF9FFF]("CF9FFF.png")
+* My favourite color: [#CF9FFF](CF9FFF.png)
 * I love Minecraft (If you couldn't already tell)
 * I code almost every day 😎
 * Java > Every other Programming Language
-* Mathematics is art $$e^{ky}=\cos\left(y\right)+k\sin\left(y\right)$$
 * 🏳️‍⚧️
+* Mathematics is art $$e^{ky}=\cos\left(y\right)+k\sin\left(y\right)$$
