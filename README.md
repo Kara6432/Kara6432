@@ -2,7 +2,7 @@
 
 Hey there, I'm Kara! I'm supposed to write something witty and interesting about myself, but honestly I'm drawing a blank... 🥴
 
-Most of my time is spent working on my project, [KaraPowered](https://www.github.com/KaraPowered) (incredibly original name) - it's a Minecraft server built completely from scratch, without any of that Mojang code or other nonsense. Just plain old Java (19+), with a few (<100 🙃) dependencies. When I'm not elbow-deep in code, I like to tinker with my Bedwars plugin for [Spigot](https://www.spigotmc.org), but honestly, there's not much to say about it - it's just a simple (>200 files) plugin for a simple game.
+Most of my time is spent working on my project, [KaraPowered](https://www.github.com/KaraPowered) (incredibly original name) - it's a Minecraft server built completely from scratch, without any of that Mojang code or other nonsense. Just plain old (19+) Java, with a few (<100 🙃) dependencies. When I'm not elbow-deep in code, I like to tinker with my Bedwars plugin for [Spigot](https://www.spigotmc.org), but honestly, there's not much to say about it - it's just a simple (>200 files) plugin for a simple game.
 
 As for the rest of my time, I like to use it to code all sorts of useful and practical things... or at least that's what I tell myself. 🤓
 
