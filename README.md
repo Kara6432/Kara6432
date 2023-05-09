@@ -1,4 +1,4 @@
-# Kara
+## Kara
 
 Hey there, I'm Kara! I'm supposed to write something witty and interesting about myself, but honestly I'm drawing a blank... 🥴
 
@@ -25,4 +25,4 @@ Behold! My GitHub streak - an unbroken chain of code commits stretching back int
 * I'm a huge Minecraft fan - if that wasn't already obvious. 🎮
 * I code practically every day - I like to think it keeps me out of trouble. 😎
 * Java is the superior programming language. Fight me. 💪
-* Lastly, I believe that mathematics is art - just look at this gorgeous equation: $$e^{ky}=\cos\left(y\right)+k\sin\left(y\right)$$ Beautiful, isn't it? 😍
+* Lastly, I believe that mathematics is art - just look at this gorgeous equation: $$e^{iy}=\cos\left(y\right)+i\sin\left(y\right)$$ Beautiful, isn't it? 😍
