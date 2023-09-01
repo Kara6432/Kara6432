@@ -24,7 +24,7 @@ Behold! My GitHub streak - an unbroken chain of code commits stretching back int
 
 ### 🤪 About Me (II):
 
-* My favorite color is [#CF9FFF](CF9FFF.png) (or at least something purpleish...). I have no idea why... I just like it 🎨
+* My favorite color is [#CF9FFF](https://github.com/Kara6432/Kara6432/blob/main/CF9FFF.png) (or at least something purpleish...). I have no idea why... I just like it 🎨
 * I'm a huge Minecraft fan - if that wasn't already obvious.
 * I code practically every day (totally unexpected) 😎
 * Java is the superior programming language. 🤗 (I feel like I am repeating myself, cuz there still seem to be people who hate it...?)
