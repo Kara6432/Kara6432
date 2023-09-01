@@ -4,7 +4,7 @@ Hey there, I'm Kara! I'm supposed to write something witty and interesting about
 
 Most of my time is spent working on my project, [KaraPowered](https://www.github.com/KaraPowered) (incredibly original name, especially when you see the names of these other Minecraft server alternatives: [SpongePowered](https://www.spongepowered.org/), [VelocityPowered](https://www.velocitypowered.com/)) - it's a Minecraft server built completely from scratch, without any of that Mojang code or other nonsense. Just plain old (18+, yeah I don't use LTS versions. I wanna have all the new features 🤓) Java, with a few (<100 🙃, not to many...) dependencies. 
 
-When I'm not elbow-deep in code, I like to tinker with my [Bedwars plugin](https://www.github.com/Kara6432/Bedwars) (which turned into a whole Minecraft server network, called Kara Newtork... See, very creative naming...).
+When I'm not elbow-deep in code, I like to tinker with my [Bedwars plugin](https://www.github.com/Kara6432/Bedwars) (which turned into a whole Minecraft server network, called Kara Network... See, very creative naming...).
 
 As for the rest of my time, I like to use it to code all sorts of useful and practical things... or at least that's what I tell myself. 🤓
 
@@ -27,6 +27,6 @@ Behold! My GitHub streak - an unbroken chain of code commits stretching back int
 * My favorite color is [#CF9FFF](CF9FFF.png) (or at least something purpleish...). I have no idea why... I just like it 🎨
 * I'm a huge Minecraft fan - if that wasn't already obvious.
 * I code practically every day (totally unexpected) 😎
-* Java is the superior programming language. 🤗 (I feel like I am repeating myself cuz there seem to still be people who hate it...?)
+* Java is the superior programming language. 🤗 (I feel like I am repeating myself, cuz there still seem to be people who hate it...?)
 * Lastly, I believe that mathematics is art - just look at this gorgeous equation: $$e^{iy}=\cos\left(y\right)+i\sin\left(y\right)$$ Beautiful, isn't it? 😍
 * Btw, in combination with the point above: I study mathematics 👩‍🎓
