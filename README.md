@@ -17,7 +17,7 @@ As for the rest of my time, I like to use it to code all sorts of useful and pra
 
 ### 💎 Stats
 
-Behold! My GitHub streak - an unbroken chain of code commits stretching back into the mists of time... or at least as far back as the [streak stats widget](https://streak-stats.demolab.com) will let me go. 🤯
+Behold! My GitHub streak - an unbroken chain of code commits stretching back into the mists of time... or at least as far back as the streak stats widget will let me go. 🤯
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kara6432&date_format=j%20M%5B%20Y%5D)
 (or maybe not...)
