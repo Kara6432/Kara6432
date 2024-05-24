@@ -1,4 +1,4 @@
-# Kara (me, if you didn't already guess it 🤯)
+# Hi, I am Kara!
 
 ### 👋 Hello World
 
