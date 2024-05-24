@@ -56,6 +56,8 @@ Watch out! My GitHub streak - an unbroken chain of code commits stretching back 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kara6432&date_format=j%20M%5B%20Y%5D)
 (or maybe not...)
 
+[![Anurag's GitHub stats](https://github-readme-stats-eta-six-69.vercel.app/api?username=kara6432&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🤪 About Me (Part II):
 
 * My favorite color is [#CF9FFF](https://github.com/Kara6432/Kara6432/blob/main/CF9FFF.png) (or at least something purpleish...). 🎨
