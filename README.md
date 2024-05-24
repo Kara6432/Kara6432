@@ -2,7 +2,7 @@
 
 Hey there, I'm Kara! I'm supposed to write something witty and interesting about myself, but honestly I don't know what to write... 🥴
 
-Most of my time is spent working on my project, [KaraPowered](https://www.github.com/KaraPowered) (incredibly original name, especially when you see the names of these other Minecraft server alternatives: [SpongePowered](https://www.spongepowered.org/), [VelocityPowered](https://www.velocitypowered.com/)) - it's a Minecraft server built completely from scratch, without any of that Mojang code or other nonsense. Just plain old (18+, yeah I don't use LTS versions. I wanna have all the new features 🤓) Java, with a few (<100 🙃, not to many...) dependencies. 
+Most of my time is spent working on my project, [KaraPowered](https://www.github.com/KaraPowered) (incredibly original name, especially when you see the names of these other Minecraft server alternatives: [SpongePowered](https://www.spongepowered.org/), [VelocityPowered](https://www.velocitypowered.com/)) - it's a Minecraft server built completely from scratch, without any of that Mojang code or other nonsense. Just plain old Java, with a few dependencies. 
 
 When I'm not elbow-deep in code, I like to tinker with my [Bedwars plugin](https://www.github.com/Kara6432/Bedwars) (which turned into a whole Minecraft server network, called Kara Network... See, very creative naming...).
 
