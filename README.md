@@ -53,10 +53,7 @@ As for the rest of my time, I like to use it to code all sorts of useful and pra
 
 Watch out! My GitHub streak - an unbroken chain of code commits stretching back into the mists of time... or at least as far back as the streak stats widget will let me go. 🤯
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kara6432&date_format=j%20M%5B%20Y%5D)
-(or maybe not...)
-
-![Anurag's GitHub stats](https://github-readme-stats-eta-six-69.vercel.app/api?username=kara6432&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kara6432&date_format=j%20M%5B%20Y%5D) ![Anurag's GitHub stats](https://github-readme-stats-pi-orcin.vercel.app/api?username=kara6432&include_all_commits=true)
 
 ### 🤪 About Me (Part II):
 
