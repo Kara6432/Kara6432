@@ -6,8 +6,6 @@ Hey there, I'm Kara! I'm supposed to write something informative and interesting
 
 Currently working on a lot of projects, of which most (all) of them are sadly closed source. At least for now...
 
-Most of my time flows into my Minecraft Server Project called [HailightMC](https://www.github.com/HailightMC). Currently I am rewriting its entire core, so yeah... expect it to take a lot of time to even get a working beta test server.
-
 As for the rest of my time, I like to use it to code all sorts of useful and practical things... 🤓
 
 ### ⭐ Skills
