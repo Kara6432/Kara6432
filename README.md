@@ -6,8 +6,6 @@ Hey there, I'm Kara! I'm supposed to write something informative and interesting
 
 Currently working on a lot of projects, of which most (all) of them are sadly closed source. At least for now...
 
-As for the rest of my time, I like to use it to code all sorts of useful and practical things... 🤓
-
 ### ⭐ Skills
 
 * My all-time favorite (really, nothing can beat it) programming language (and the one I use most): [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 😍
