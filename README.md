@@ -57,7 +57,7 @@ Watch out! My GitHub streak - an unbroken chain of code commits stretching back 
 * I'm a huge fan of Minecraft - if that wasn't already obvious... But more on the technical side of it...
 * Java is the superior programming language 🤗 (I feel like I am repeating myself, cuz there still seem to be people who hate it...?) I also don't like Kotlin... Java is superior!
 * I believe that **Mathematics is Art** - I mean, like look at this gorgeous equality: $$\oint_\gamma f(z) dz = 2\pi i \cdot \sum_{p\in P} Ind_\gamma(p)\cdot Res_p(f)$$ 🤩
-* In combination with the point above: I study mathematics although still attending school (11. Grade in Germany) 👩‍🎓 ... [more info](https://fruehstudium.fau.de)
+* In combination with the point above: I study(-/ied) mathematics although still attending school (12. Grade in Germany) 👩‍🎓 ... [more info](https://fruehstudium.fau.de)
 
 ### 🔗 Links
 
